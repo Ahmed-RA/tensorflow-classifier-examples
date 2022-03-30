@@ -14,3 +14,7 @@ Classifier scripts for SVHN and FashionMNIST datasets
 - For SVHN: download train_32x32.mat and test_32x32.mat (Format 2) from (http://ufldl.stanford.edu/housenumbers/). Place the files in same directory as the script. Then run the script.
 
 After running, the scripts should generate 3 "png" files which show the graphs for accuracy, loss and the confusion matrix, respectively.
+
+# Results:
+- FashionMNIST test set: Accuracy ~93.3% , ~~Loss 0.22
+- SVHN test set: Accuracy ~92.2%, ~~Loss 0.3
